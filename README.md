@@ -1,4 +1,4 @@
-# TEAM: The Fighting Mongooses
+# The Fighting Mongooses Team
 ## Team Members
 
 > Je Min Son
@@ -7,3 +7,4 @@
 
 > Davis Holstege
 
+## Description 
