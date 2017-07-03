@@ -1,4 +1,8 @@
 # The Fighting Mongooses Team
+
+![Alt text](/image/fightingMongooses.PNG)
+
+
 ## Team Members
 
 > Je Min Son
