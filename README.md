@@ -1,6 +1,6 @@
 # The Fighting Mongooses Team
 
-![Alt text](image/figthingMongooses.PNG)
+![Alt text](image/fightingmongooses.png)
 
 
 ## Team Members
