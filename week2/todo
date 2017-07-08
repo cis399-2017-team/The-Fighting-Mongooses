@@ -3,7 +3,7 @@
 3. Provide the output of a command showing disk usage [1/1]
 4. Provide the output of a command showing memory usage [1/1]
 5. Provide the output of a command showing running processes [1/1]
-6. Provide the output of a command showing network interface config [0/1]
+6. Provide the output of a command showing network interface config [1/1]
 7. Provide the output of a command showing routing table [0/1]
 8. Provide the output of a command showing network connects and ports [0/1]
 9. Provide a listing of all software packages installed [1/1]
