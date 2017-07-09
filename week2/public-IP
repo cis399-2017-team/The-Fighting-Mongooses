@@ -1,0 +1,1 @@
+Login to the AWS console, go to the EC2 services page, go to "instances" and click on your instance. The public IP is listed as "IPv4 Public IP".
