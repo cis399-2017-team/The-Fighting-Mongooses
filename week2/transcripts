@@ -1,0 +1,15 @@
+sudo apt-get update
+Hit:1 http://us-west-2.ec2.archive.ubuntu.com/ubuntu xenial InRelease
+Hit:2 http://us-west-2.ec2.archive.ubuntu.com/ubuntu xenial-updates InRelease
+Hit:3 http://us-west-2.ec2.archive.ubuntu.com/ubuntu xenial-backports InRelease
+Get:4 http://security.ubuntu.com/ubuntu xenial-security InRelease [102 kB]
+Fetched 102 kB in 0s (228 kB/s)
+Reading package lists... Done
+sudo apt-get upgrade
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Calculating upgrade... Done
+The following packages have been kept back:
+  linux-aws linux-headers-aws linux-image-aws
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
