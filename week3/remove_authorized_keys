@@ -1,0 +1,6 @@
+[0;32mInfo: Retrieving pluginfacts[0m
+[0;32mInfo: Retrieving plugin[0m
+[0;32mInfo: Caching catalog for ip-10-0-8-35.us-west-2.compute.internal[0m
+[0;32mInfo: Applying configuration version '1500316800'[0m
+[mNotice: /Stage[main]/Sshd/File[/home/ubuntu/.ssh/authorized_keys]/ensure: defined content as '{md5}3b8d755604c7feab6a6c5b8d9f4cf11a'[0m
+[mNotice: Finished catalog run in 0.32 seconds[0m
