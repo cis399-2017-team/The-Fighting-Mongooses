@@ -1,0 +1,1 @@
+10.0.8.161 - - [19/Jul/2017:20:17:00 +0000] "GET /index.html HTTP/1.1" 200 1758 "-" "ELB-HealthChecker/1.0"
