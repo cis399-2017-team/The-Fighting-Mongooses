@@ -1,0 +1,9 @@
+# This is the puppet code used to replicate web content.
+	file { "/var/www/html":
+		ensure => directory,
+		recurse => true,
+		source => "puppet:///modules/apache/html",
+		owner => root,
+		group => root,
+		require => Package["apache2"],
+	}
