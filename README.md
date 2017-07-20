@@ -2,7 +2,6 @@
 
 ![Alt text](image/fightingmongooses.png)
 
-
 ## Team Members
 
 > Je Min Son
@@ -13,4 +12,14 @@
 -----------------------------------------------
 [Domain](http://fightingmongooses.ddns.net/)
 -----------------------------------------------
+## Directory 
+
+* image - containing image of the logo
+
+* [week2](https://github.com/cis399-2017-team/The-Fighting-Mongooses/tree/master/week2) - Amazon EC2 instance creation
+
+* [week3](https://github.com/cis399-2017-team/The-Fighting-Mongooses/tree/master/week3) - Puppet master/agent setup
+
+* [week4](https://github.com/cis399-2017-team/The-Fighting-Mongooses/tree/master/week4) - Web service and basic load-balancing 
+
 
