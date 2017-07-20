@@ -1,0 +1,5 @@
+Requesting webpage when both instances have apache running succesfully loads.
+
+Requesting webpage when either of the instances has apache running, and the other does not, successfully loads.
+
+Requesting webpage when neither of the instances has apache running gives a 504 HTTP error.
