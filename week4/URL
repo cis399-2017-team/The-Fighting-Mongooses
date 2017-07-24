@@ -1,1 +1,4 @@
-http://ftngmngsloadbalancer-1609241663.us-west-2.elb.amazonaws.com/
+# noip redirects the following to the actual public dns
+http://fightingmongooses3.ddns.net/index.html
+# this is the public dns listed by amazon
+http://ec2-35-164-218-151.us-west-2.compute.amazonaws.com
