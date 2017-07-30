@@ -37,6 +37,12 @@ Check list for which instances were able to get in to:
 	Denied from ThirdNinja 
 
 	• Segmentation Squad -> 	
-	Denied from SegmentionSquad1 (Asking password),
-	Denied from SegmentionSquad2 (Asking password),
-	Denied from SegmentionSquad3 master (Asking password) 
+	Accessed into SegmentionSquad1,
+	Accessed into SegmentionSquad2,
+	Denied from SegmentionSquad3 master 
+
+	• Fighting Mongooses -> 
+	Accessed into all instances (my team) 
+
+
+ 
