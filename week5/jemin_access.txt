@@ -1,0 +1,42 @@
+CIS399 - System Admin, Week 5 
+Name: Je Min Son
+Team: The Fighting Mongooses
+
+Check list for which instances were able to get in to:
+
+	• alphabet[11:14] ->
+	Accessed into alphabet[11],
+	Accessed into alphabet[12],
+	Denied from alphabet[13] 
+
+	• Binary Boiz ->
+	Denied from Binary_Boiz_1,
+	Accessed into Binary_Boiz_2,
+	Denied from Binary_Boiz_3
+
+	• Fork Bomb ->
+	Accessed into Fork-Bomb-pm,
+	Denied from FORKBOMB!!!,
+	Accessed into Forkbomb-p,
+	Accessed into Forkbomb-p2,
+	Denied from ForkBombT
+
+	• Hideous Snakes ->
+	Accessed into Hideous Boa(Snake-agent), 
+	Denied from Hideous Asp(Snake-agent),
+	Denied from Hideous Cobra(Puppet Master) 
+
+	• Hot Shame ->
+	Denied from Hot-Shame-1-M (Asking password),
+	Denied from Hot-Shame-2-NEW (Asking password),
+	Denied from Hot-Shame-3 (Asking password)
+
+	• Ninja ->
+	Accessed into MeniNinja,
+	Accessed into SteveNinja,
+	Denied from ThirdNinja 
+
+	• Segmentation Squad -> 	
+	Denied from SegmentionSquad1 (Asking password),
+	Denied from SegmentionSquad2 (Asking password),
+	Denied from SegmentionSquad3 master (Asking password) 
