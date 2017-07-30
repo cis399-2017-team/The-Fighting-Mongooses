@@ -22,4 +22,5 @@
 
 * [week4](https://github.com/cis399-2017-team/The-Fighting-Mongooses/tree/master/week4) - Web service and basic load-balancing 
 
+* [week5](https://github.com/cis399-2017-team/The-Fighting-Mongooses/tree/master/week5) - User Account Management
 
