@@ -1,0 +1,65 @@
+Login check
+
+For fightingmongooses2. 
+
+mister_p pts/0        76.115.147.191   Sat Jul 29 23:59 - 23:59  (00:00)
+mister_p pts/3        128.223.223.197  Thu Jul 27 23:07 - 23:07  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+nsato10  pts/0        73.240.200.192   Fri Jul 28 14:07 - 14:07  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+cplachno pts/0        128.223.223.117  Fri Jul 28 22:46 - 22:46  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+levishut pts/0        128.223.223.90   Fri Jul 28 22:15 - 22:16  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+aziz94sh pts/0        73.190.85.145    Sun Jul 30 21:10 - 21:11  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+cnf      pts/0        128.223.16.206   Thu Jul 27 16:58 - 16:58  (00:00)
+cnf      pts/0        128.223.223.198  Wed Jul 26 22:08 - 22:09  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+pogrebin pts/0        63.155.165.150   Mon Jul 31 05:27 - 05:27  (00:00)
+pogrebin pts/2        128.223.223.184  Thu Jul 27 22:44 - 22:45  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+Vino     pts/0        75.145.78.74     Mon Jul 31 20:21 - 20:21  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+nboyd    pts/0        198.0.43.123     Sun Jul 30 20:16 - 20:16  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+jdolan   pts/0        75.170.12.185    Mon Jul 31 07:37 - 07:38  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+coletc   pts/4        128.223.223.194  Mon Jul 31 20:55   still logged in
+coletc   pts/4        128.223.223.194  Mon Jul 31 20:54 - 20:54  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+houllett pts/0        73.37.34.93      Sun Jul 30 17:00 - 17:00  (00:00)
+houllett pts/2        128.223.223.193  Thu Jul 27 22:53 - 22:53  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+menif    pts/0        174.30.39.181    Sun Jul 30 06:00 - 06:00  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+stevep   pts/0        73.11.34.126     Sat Jul 29 23:04 - 23:04  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+slynch   pts/0        73.96.196.228    Sun Jul 30 21:15 - 21:15  (00:00)
+slynch   pts/0        73.96.196.228    Sun Jul 30 19:14 - 19:14  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+stevev   pts/2        128.223.223.247  Thu Jul 27 22:20 - 22:21  (00:00)
+
+wtmp begins Sat Jul  8 22:02:50 2017
+
+
+For fightingmongooese3 
+
+junck    pts/0        192.236.96.88    Mon Jul 31 03:19 - 03:19  (00:00)
+
+wtmp begins Wed Jul  5 23:38:19 2017
