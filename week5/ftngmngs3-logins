@@ -1,0 +1,55 @@
+Username         Port     From             Latest
+root                                       **Never logged in**
+daemon                                     **Never logged in**
+bin                                        **Never logged in**
+sys                                        **Never logged in**
+sync                                       **Never logged in**
+games                                      **Never logged in**
+man                                        **Never logged in**
+lp                                         **Never logged in**
+mail                                       **Never logged in**
+news                                       **Never logged in**
+uucp                                       **Never logged in**
+proxy                                      **Never logged in**
+www-data                                   **Never logged in**
+backup                                     **Never logged in**
+list                                       **Never logged in**
+irc                                        **Never logged in**
+gnats                                      **Never logged in**
+nobody                                     **Never logged in**
+systemd-timesync                           **Never logged in**
+systemd-network                            **Never logged in**
+systemd-resolve                            **Never logged in**
+systemd-bus-proxy                           **Never logged in**
+syslog                                     **Never logged in**
+_apt                                       **Never logged in**
+lxd                                        **Never logged in**
+messagebus                                 **Never logged in**
+uuidd                                      **Never logged in**
+dnsmasq                                    **Never logged in**
+sshd                                       **Never logged in**
+pollinate                                  **Never logged in**
+jsheabia         pts/0    24.20.175.13     Tue Aug  1 22:02:23 +0000 2017
+puppet                                     **Never logged in**
+jemin            pts/0    73.240.46.105    Mon Jul 31 21:15:03 +0000 2017
+dholstege        pts/0    75.170.49.50     Thu Jul 20 20:19:57 +0000 2017
+nboyd                                      **Never logged in**
+cnf                                        **Never logged in**
+Vino             pts/0    75.145.78.74     Mon Jul 31 20:22:14 +0000 2017
+pogrebinsky      pts/3    73.164.228.201   Mon Jul 31 03:56:32 +0000 2017
+coletc                                     **Never logged in**
+kaelas                                     **Never logged in**
+mister_person    pts/5    128.223.223.197  Thu Jul 27 23:06:28 +0000 2017
+nsato10          pts/0    73.240.200.192   Fri Jul 28 14:08:13 +0000 2017
+cplachno                                   **Never logged in**
+houllette                                  **Never logged in**
+levishutts                                 **Never logged in**
+jdolan           pts/0    75.170.12.185    Mon Jul 31 07:38:49 +0000 2017
+menif            pts/0    174.30.39.181    Sun Jul 30 06:01:21 +0000 2017
+stevep           pts/0    73.11.34.126     Sat Jul 29 23:03:47 +0000 2017
+stevev           pts/0    128.223.142.97   Mon Jul 31 21:33:34 +0000 2017
+mhebeler                                   **Never logged in**
+slynch           pts/3    73.96.196.228    Sun Jul 30 21:15:37 +0000 2017
+aziz94shh                                  **Never logged in**
+junck            pts/0    192.236.96.88    Mon Jul 31 03:19:53 +0000 2017
+mitchm                                     **Never logged in**
