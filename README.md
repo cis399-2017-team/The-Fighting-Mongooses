@@ -25,3 +25,11 @@
 * [week5](https://github.com/cis399-2017-team/The-Fighting-Mongooses/tree/master/week5) - User Account Management
 
 * [week6](https://github.com/cis399-2017-team/The-Fighting-Mongooses/tree/master/week6) - Monitoring, Measurement, and Notification 
+
+* [project](https://github.com/cis399-2017-team/The-Fighting-Mongooses/tree/master/project) - Final project
+
+
+
+
+
+
