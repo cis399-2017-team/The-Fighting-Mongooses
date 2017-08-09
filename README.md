@@ -12,7 +12,7 @@
 -----------------------------------------------
 [Domain](http://fightingmongooses.ddns.net/)
 -----------------------------------------------
-## Directory 
+## Directories 
 
 * image - containing image of the logo
 
