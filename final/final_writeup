@@ -1,0 +1,25 @@
+Final Writeup
+-------------
+
+We have created a working Cassandra database distributed across 2 AWS instances. We ended up creating 1 seed node with 1 additional standard ring node because of "hardware" limitations.
+
+Objectives:
+	- Install Cassandra on all 3 AWS instances - Done (downgraded to 2)
+	- Configure 1 seed node and 2 other ring nodes - Done (downgraded to a single ring node)
+	- Generate test data to populate database - Done
+	- Demonstrate that the data is properly distributed across nodes - Done
+
+Testing:
+	We successfully created 2 tables, one with a replication factor of 1, and one with a replication factor of 2. When the instance holding the data on the first table was shut down, the data was no longer accessible. However, when any single instance was shut down, the second table was still visible as the data was duplicated across both instances.
+
+User Population:
+	The use issues that have become obvious so far are the need to manage accounts, the need for storage quotas (so the system isn't flooded with trash data), and a handful of other issues better addressed in the maintenance section. We believe the user population will benefit from this kind of database, however, as it is easily scalable and (with higher replication factors) less likely to lose data than a standard database.
+
+Security:
+	The primary security concern is that the nodes must be externally accessible so that they can be networked together. This opens up a potential security hole. Our solution was to make the port Cassandra runs on only accessible from other instances within its subnet. This should prevent people from outside the network from accessing the data stored on the instances. However, people with access to the instances could still get in, and as the instances are currently being used for purposes other than database hosting, other people with accounts on the VM may have access to sensitive data.
+
+Maintenance:
+	There are a handful of tasks that will require persistant upkeep. The main ones are account creationi/deletion, data monitoring, and software maintenance. Accounts will need to be created or deleted as new people require access to the database or leave. They will also need to have permissions assigned to them depending on the tables they need access to. The instances will need to have their storage monitored in case people are creating too much data without deleting old, useless content. Additional nodes may need to be added to the ring to counteract this. Finally, being a piece of distributed software, updates are released for Cassandra and it is the task of the system admin to keep it up to date.
+
+Documentation:
+	Documentation for actually using Cassandra can be found at http://cassandra.apache.org/doc/latest/ and documentation for setup can be found in the setup file included with this writeup.
