@@ -1,0 +1,28 @@
+Install instructions for Cassandra 3.6 Debian package
+
+1) Add repository to package manager:
+        echo "deb http://www.apache.org/dist/cassandra/debian 36x main" | sudo tee -a /etc/apt/sources.list.d/cassandra.sources.list
+    
+2) Add repository keys:
+        curl https://www.apache.org/dist/cassandra/KEYS | sudo apt-key add -
+        
+3) Update repository and install Cassandra:
+        sudo apt-get update && sudo apt-get install cassandra
+        
+4) Stop automatically started service:
+        sudo service cassandra stop
+        
+5) Remove default node data:
+        rm -rf /var/lib/cassandra
+        
+6) Install proper python cassandra driver:
+        pip install cassandra-driver
+        
+7) Stop using bundled python cassandra driver:
+        export CQLSH_NO_BUNDLED=TRUE
+        
+8) Make node configuration changes:
+        TODO
+        
+9) Restart cassandra:
+        sudo service cassandra start
