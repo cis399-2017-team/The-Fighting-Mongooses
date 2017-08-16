@@ -22,7 +22,11 @@ Install instructions for Cassandra 3.6 Debian package
         export CQLSH_NO_BUNDLED=TRUE
         
 8) Make node configuration changes:
-        TODO
+        In /etc/cassandra/cassandra.yaml
+        - Change cluster_name to desired name
+        - Change seeds to be a list of desired seed node IPs
+        - Change listen_address to blank for automatic resolution, or node's IP
+        - Optional: change num_tokens to desired proportion of data node should be responsible for
         
 9) Restart cassandra:
         sudo service cassandra start
